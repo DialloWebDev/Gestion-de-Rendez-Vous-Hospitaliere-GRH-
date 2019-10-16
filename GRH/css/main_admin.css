@@ -1,0 +1,13 @@
+body{
+   height: 100%; 
+}
+.entete{
+    background-color: #57b846 ;
+    height: 20%;
+}
+
+.barre{
+    height: 700px;
+    background-color:#b4afaf;
+    border-right: 1px solid black ;
+}
